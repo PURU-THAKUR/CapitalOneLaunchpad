@@ -16,6 +16,16 @@ Open the downloaded APK file and install it.
 Once installed, open the PHASAL app and start exploring the prototype.
 
 ⚠️ Note: This APK is for demonstration purposes only and may not include all final production features.
+💻 Source Code Access
+To view or run the source code of this project:
+
+Go to the repository main page.
+
+Click on the Source Code.zip file.
+
+Download the file and extract it on your computer.
+
+Open the project in your preferred IDE (e.g., VS Code, Android Studio).
 ## Features
 
 ### 1. Multimodal Agricultural Analysis
