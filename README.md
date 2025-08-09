@@ -26,6 +26,7 @@ Click on the Source Code.zip file.
 Download the file and extract it on your computer.
 
 Open the project in your preferred IDE (e.g., VS Code, Android Studio).
+Note:- “This MVP prototype was developed using my own design and functional specifications, implemented with the assistance of Chef AI for code generation and UI wireframing.”
 ## Features
 
 ### 1. Multimodal Agricultural Analysis
