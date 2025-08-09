@@ -2,7 +2,20 @@
 
 ## Overview
 PHASAL is an AI-powered farming assistant designed specifically for Indian farmers. This MVP demonstrates the core features including multimodal agricultural analysis, conversational AI chatbot, and mandi price intelligence.
+📱 Prototype Testing Instructions
+To test the PHASAL prototype on your Android device:
 
+Scroll to the top of this repository and go to the apk/ folder (or click the APK file in the repo).
+
+Download the .apk file to your Android phone.
+
+On your phone, enable Install from Unknown Sources (Settings → Security).
+
+Open the downloaded APK file and install it.
+
+Once installed, open the PHASAL app and start exploring the prototype.
+
+⚠️ Note: This APK is for demonstration purposes only and may not include all final production features.
 ## Features
 
 ### 1. Multimodal Agricultural Analysis
